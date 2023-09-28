@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, contact [Your Name](mailto:your.email@example.com).
+For questions or inquiries, contact [Pintu Kumar](mailto:your.email@example.com).
 ```
 
 Replace `<repository-url>` with the URL of your project's Git repository. Customize the content under each section (Overview, Prerequisites, Getting Started, Usage, Database Structure, Contributing, License, Acknowledgments, Contact) to provide relevant information about your project.
