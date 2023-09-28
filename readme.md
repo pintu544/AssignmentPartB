@@ -17,7 +17,7 @@ Before running the application, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/pintu544/AssignmentPartB)
    ```
 
 2. Navigate to the project directory:
